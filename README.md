@@ -1,2 +1,2 @@
 
-### Pedestrian Activity Pattern Identification and Classification
+# Pedestrian Activity Pattern Identification and Classification
